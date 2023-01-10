@@ -1,4 +1,2 @@
 # ML-DL-assignments
-My pipeline/assignments for ML and DL blabla
-
-blablabla
+My pipeline/assignments for ML and DL
