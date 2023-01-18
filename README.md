@@ -6,3 +6,4 @@ Collection of some selected ML/DL assignments I did once and have been using as 
 - **NN4science_3_classic_ML.ipynb**: $\dots$ 
 - **NN4science_4_feature_engineering.ipynb**: $\dots$
 - **NN4science_5_neural_networks.ipynb**: $\dots$
+- **NN4science_6_CNN.ipynb**: $\ldots$
