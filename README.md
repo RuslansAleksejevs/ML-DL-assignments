@@ -2,6 +2,8 @@ Collection of some selected ML/DL assignments I did once and have been using as 
 
 Some of them are quite difficult -- like realizing neural network solely by using numpy, or writing my own architecture for a network similar to U-Net.
 
+Also I need to add the pipeline file with info I have been collecting...
+
 ## Notebooks' content
 - **NN4science_1_intro.ipynb**: $\dots$
 - **NN4science_2_linear_models.ipynb**: linear classifier with well written training routine, linear regression (separately in $\mathbb{R}$ and $\mathbb{R}^n$), regularization, learning rate comparison.
