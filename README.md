@@ -15,3 +15,4 @@ Also I need to add the pipeline file with info I have been collecting...
 _______________________________________________
 Other course:
 - **DL_msu_3_MNIST_classification.ipynb**: $\ldots$
+- **DL_msu_4_CIFAR_classification_CNN.ipynb**: $\ldots$
