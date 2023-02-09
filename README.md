@@ -13,6 +13,6 @@ Also I need to add the pipeline file with info I have been collecting...
 - **NN4science_6_CNN.ipynb**: $\ldots$
 - **NN4science_7_batch_normalization.ipynb**: $\ldots$
 _______________________________________________
-Other course:
+Course "Introduction to Deep Learning":
 - **DL_msu_3_MNIST_classification.ipynb**: $\ldots$
 - **DL_msu_4_CIFAR_classification_CNN.ipynb**: $\ldots$
