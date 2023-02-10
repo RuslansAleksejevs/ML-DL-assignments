@@ -16,3 +16,7 @@ _______________________________________________
 Course "Introduction to Deep Learning":
 - **DL_msu_3_MNIST_classification.ipynb**: $\ldots$
 - **DL_msu_4_CIFAR_classification_CNN.ipynb**: $\ldots$
+_______________________________________________
+Some homework from summer school on neural networks (August 2022):
+- $\ldots$
+- $\ldots$
