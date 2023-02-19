@@ -12,7 +12,7 @@ Also I need to add the pipeline file with info I have been collecting...
 - **NN4science_5_neural_networks.ipynb**: $\dots$
 - **NN4science_6_CNN.ipynb**: $\ldots$
 - **NN4science_7_batch_normalization.ipynb**: $\ldots$
-- **Задача с автоэнкодерами**: $\ldots$
+- **NN4science_13_autoencoders.ipynb**: $\ldots$
 _______________________________________________
 Course "Introduction to Deep Learning":
 - **DL_msu_3_MNIST_classification.ipynb**: $\ldots$
