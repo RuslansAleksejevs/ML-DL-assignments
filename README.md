@@ -23,3 +23,6 @@ _______________________________________________
 Some homework from summer school on neural networks (August 2022):
 - $\ldots$
 - $\ldots$
+_______________________________________________
+Course "Practical ML":
+- blabla: final project using absolutely real data.
