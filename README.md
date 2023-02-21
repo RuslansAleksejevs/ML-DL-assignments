@@ -25,5 +25,4 @@ Some homework from summer school on neural networks (August 2022):
 - $\ldots$
 _______________________________________________
 Course "Practical ML":
-- blabla: final project using absolutely real data. 
-- (не забудь добавить скачивание данных не вручную, а командой с гугл диска или еще откуда-то)
+- ML-final-project: final project using real data from delivery club. [[не забудь добавить скачивание данных не вручную, а командой с гугл диска или еще откуда-то. И ВООБЩЕ, ЧТО-ТО ЭТА ШТУКА ПЕРЕСТАЛА РАБОТАТЬ, ИСПРАВЬ НА ДНЯХ]]
